@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Trendtwosub"]
+	path = Trendtwosub
+	url = https://github.com/wangyuncw/trendtwosub
+	shallow = true
+	registered = true
