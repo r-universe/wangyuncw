@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CIS.DGLM"]
 	path = CIS.DGLM
 	url = https://github.com/cran/CIS.DGLM
-	shallow = true
-	registered = true
 [submodule "Trendtwosub"]
 	path = Trendtwosub
 	url = https://github.com/wangyuncw/trendtwosub
-	shallow = true
-	registered = true
